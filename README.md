@@ -27,5 +27,3 @@ An order form app that consists of price of different categories. The final sum 
    ```
 
 5. Open [http://localhost:8080](http://localhost:8080)
-
-### Issues
